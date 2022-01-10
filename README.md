@@ -30,7 +30,7 @@
 </ul>
 <br/>
 <ul class="first">	
-	<b>TEST DEMO WEBSITE: <a href="https://www.e-dostluk.com/q2a-demo" target="_blank">LIVE DEMO</a></b>
+	<b>TEST DEMO WEBSITE: <a href="https://gyzgyn.com/q2a-demo" target="_blank">LIVE DEMO</a></b>
 	<li>Standard registered user (username: deneme_11 / pass: test1234)</li>
 	<li>Moderator user (username: demo / pass: demo1234)</li>
 </ul>
